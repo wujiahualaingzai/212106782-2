@@ -1,4 +1,4 @@
-package com.rjgc;
+package com.nbac;
 
 import com.alibaba.fastjson.JSONObject;
 
